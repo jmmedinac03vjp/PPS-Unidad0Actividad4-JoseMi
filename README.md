@@ -43,7 +43,7 @@ git push -u origin main
 1. Ejecuta php -S 0:8080 para lanzar un servidor con la página html que has creado.
 2. Visualiza la página creada Puedes acceder a ella en tu navegador en el puerto 8080 de tu equipo: [](http://localhost:8080)
 
-#Trabajo con git
+# Trabajo con git
 1. Modifica el fichero index.php
 2. Verifica estado del proyecto.
 Refresca navegador para comprobar que ha cambiado.
