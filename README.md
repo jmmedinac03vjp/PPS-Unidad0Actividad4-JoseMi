@@ -36,10 +36,11 @@ git push -u origin main
 
    ``<H1>Hola $USER¡¡¡ ¿Qué tal te encuentras?</H1>``
    
-8. Añade el archivo index.php al proyecto (git add).
-9. Visualiza el estado del proyecto  (git status)
+8. Visualiza el estado del proyecto  (git status). Puedes ver como te indica que tienes varias operaciones por hacer: git add, git commit...
+9. Añade el archivo index.php al proyecto (git add).
 1. Haz un commit.
-1. Sube los cambios a tu repositorio de github (git push)
+1. Vuelve a comprobar el estado del proyecto. Puedes ver como ya debería de estar todo en orden.
+1. Vuelve a subir los cambios a tu repositorio de github (git push)
 
 ## Creación de nuestro servidor web y visualización de nuestro proyecto
 
