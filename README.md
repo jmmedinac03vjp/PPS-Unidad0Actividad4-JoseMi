@@ -33,7 +33,9 @@ git push -u origin main
 4. Escribe en él una descripción de la actividad y vuelves a comprobar su estado.
 5. Crea un archivo con nombre index.php. 
 6. Introduce el código html para que nos muestre un mensaje de Hola mundo con tu nombre. Uno sencillo sería este:
+
    ``<H1>Hola¡¡¡ Qué tal te encuentras</H1>``
+   
 8. Añade el archivo index.php al proyecto.
 9. Visualiza el estado del proyecto  (git status)
 10. Haz un commit.
