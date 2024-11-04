@@ -1,6 +1,5 @@
 # PPS-Unidad0Actividad4-JoseMi
-
-===
+======
 
 Vamos a hacer una nueva actividad con git. En esta ocasión crearemos un pequeño proyecto de una página web que podremos visualizar creando un pequeño servidor con php.
 Como en la actividad anterior el producto a realizar será el repositorio en github. Allí tendrás que documentar la realización de la práctica con la explicación del procedimiento, sus imágenes, etc.
@@ -65,10 +64,10 @@ git push -u origin main
 
    ``<H1>Hola $USER¡¡¡ ¿Qué tal te encuentras?</H1>``
    
-3. Visualiza el estado del proyecto ( puedes hacer tambien un git status corto ``git status -s`` o ``git status --short``). 
+3. Visualiza el estado del proyecto ( puedes hacer tambien un git status corto ``git status --s` o `git status --short``). 
 4. Puedes ver como te indica que tienes varias operaciones por hacer: git add, git commit...
 5. Añade el archivo index.html al proyecto (git add).
-6. Haz un commit (Puedes hacer ``commit -am "commentario del commit` de esta manera se añaden las modificaciones de archivos y se hace el commit con el mensaje indicado sin abrir el archivo y tener que escribir nosotros).
+6. Haz un commit (Puedes hacer ``commit -am "commentario del commit"` de esta manera se añaden las modificaciones de archivos y se hace el commit con el mensaje indicado sin abrir el archivo y tener que escribir nosotros).
 7. Vuelve a comprobar el estado del proyecto. Puedes ver como ya debería de estar todo en orden.
 8. Vuelve a subir los cambios a tu repositorio de github (git push)
 
@@ -96,7 +95,7 @@ git push -u origin main
 1. Lista las ramas existentes.
 2. Crea una nueva rama con nombre Vers1 a partir de la rama actual.
 3. Haz una modificación del index.html y guardas modificaciones.
-3. Sube los cambios al respositorio remoto a la rama Vers1 ``git push origin Vers1`(En este caso podemos ver cómo el index.html de la rama `m̀ain` y `Vers1` son diferentes.
+3. Sube los cambios al respositorio remoto a la rama Vers1 ``git push origin Vers1` (En este caso podemos ver cómo el index.html de la rama `m̀ain` y `Vers1` son diferentes.
 
 ## Entrega
 
