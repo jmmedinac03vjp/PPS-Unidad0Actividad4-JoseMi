@@ -94,4 +94,5 @@ git push -u origin main
 
 1. Lista las ramas existentes.
 2. Crea una nueva rama con nombre Vers1 a partir de la rama actual.
-3. Sube los cambias al respositorio remoto (En este caso si queremos que se cree también la rama creada tendríamos que .
+3. Haz una modificación del index.html y guardas modificaciones.
+3. Sube los cambios al respositorio remoto a la rama Vers1 ``git push origin Vers1`(En este caso podemos ver cómo el index.html de la rama `m̀ain` y `Vers1` son diferentes.
