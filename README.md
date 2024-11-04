@@ -1,5 +1,6 @@
 # PPS-Unidad0Actividad4-JoseMi
-___
+
+===
 
 Vamos a hacer una nueva actividad con git. En esta ocasión crearemos un pequeño proyecto de una página web que podremos visualizar creando un pequeño servidor con php.
 Como en la actividad anterior el producto a realizar será el repositorio en github. Allí tendrás que documentar la realización de la práctica con la explicación del procedimiento, sus imágenes, etc.
@@ -96,3 +97,7 @@ git push -u origin main
 2. Crea una nueva rama con nombre Vers1 a partir de la rama actual.
 3. Haz una modificación del index.html y guardas modificaciones.
 3. Sube los cambios al respositorio remoto a la rama Vers1 ``git push origin Vers1`(En este caso podemos ver cómo el index.html de la rama `m̀ain` y `Vers1` son diferentes.
+
+## Entrega
+
+Una vez documentado todo el proceso en tu README.md, en la entrega por la plataforma, pega el enlace a tu repositorio de github.com
