@@ -89,7 +89,13 @@ git push -u origin main
 9. Para pull y push, haz un push y comprueba cómo han subido los archivos a github.com.
 1. Modifica el archivo index.php desde la página de github.com y haz un pull y comprueba cómo se ha modificado la página web en nuestro navegador.
 
-
+## Git log
+1. Mira la página de (Git Book sobre los comandos git log)[https://git-scm.com/book/es/v2/Fundamentos-de-Git-Ver-el-Historial-de-Confirmaciones]
+2. Muestra los logs 
+3. Muestra los logs de los últimos 3 commits
+4. Muestra los logs utilizando el modificador ``--pretty`
+5. Muestra los logs de los últimos 2 commits donde se vean las diferencias de cada una de las entradas.
+6. Muestra los logs de las modificaciones realizadas en el último día
 ## Ramas
 
 1. Lista las ramas existentes.
@@ -100,3 +106,4 @@ git push -u origin main
 ## Entrega
 
 Una vez documentado todo el proceso en tu README.md, en la entrega por la plataforma, pega el enlace a tu repositorio de github.com
+
