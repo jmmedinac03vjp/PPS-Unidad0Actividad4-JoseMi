@@ -60,9 +60,9 @@ git push -u origin main
 
 1. Crea un archivo con nombre index.html. 
 2. Introduce el código html para que nos muestre un mensaje de Hola mundo con tu nombre. Uno sencillo sería este:
-
-   ``<H1>Hola $USER¡¡¡ ¿Qué tal te encuentras?</H1>``
-   
+~~~
+   <H1>Hola $USER¡¡¡ ¿Qué tal te encuentras?</H1>
+~~~   
 3. Visualiza el estado del proyecto ( puedes hacer tambien un git status corto ``git status --s` o `git status --short``). 
 4. Puedes ver como te indica que tienes varias operaciones por hacer: git add, git commit...
 5. Añade el archivo index.html al proyecto (git add).
