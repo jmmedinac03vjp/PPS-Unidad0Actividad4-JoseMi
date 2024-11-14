@@ -8,9 +8,8 @@ Como en la actividad anterior el producto a realizar será el repositorio en git
 Ya habrás configurado tu email y tu user con git config. Vamos a configurar algunas cosas más.
 
 1. Configura el editor de comandos. Yo por simplicidad utilizaría nano ``git config — global core.editor nano``
-2. Vamos también a configurar para que cuando utilicemos  `git dif` o ``git log`se nos muestre todo el mensaje sin entrar en editor. Para ello `git config — global core.pager ' ' ``.
-3. Comprueba qué valor tienen las variables de configuración de git. Puedes utilizar la ayuda ``git config --help``.
-4. Ajusta los valores de las  variables de Git:
+1. Comprueba qué valor tienen las variables de configuración de git. Puedes utilizar la ayuda ``git config --help``.
+1. Ajusta los valores de las  variables de Git:
 
 ~~~
 color.status=auto
